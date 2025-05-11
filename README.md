@@ -13,7 +13,6 @@ The primary goal of this repository is to:
 
 This repository includes well-commented and structured Jupyter notebooks that demonstrate how to create and customize the following plots:
 
-### ✅ **Matplotlib Visualizations**
 - **Bar Plot**
 - **Histogram**
 - **Line Plot**
